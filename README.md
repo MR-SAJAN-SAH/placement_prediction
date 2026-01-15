@@ -29,17 +29,6 @@ This project provides a **binary classification solution** to help analyze place
 
 ---
 
-## Project Structure
-├── app.py # Flask application
-├── index.html # Frontend UI
-├── placement.ipynb # Data analysis & model training
-├── placement.csv # Dataset
-├── place.pkl # Trained ML model
-└── README.md # Project documentation
-
-
----
-
 ## Dataset Description
 The dataset contains **100 student records** with the following features:
 
